@@ -18,6 +18,7 @@ class PhotosCollectionViewController: UICollectionViewController {
         api.loadPhotos(didLoadPhotos)
         // FILL ME IN
     }
+    
 
     /* 
      * IMPLEMENT ANY COLLECTION VIEW DELEGATE METHODS YOU FIND NECESSARY
